@@ -1,11 +1,11 @@
-## 2016 год
+## 2016
 
 React
 
 * [Wiki With React and Firebase](https://github.com/it-spectre-ru/react-firebase)
 
 
-## 2018 год
+## 2018
 
 React, NodeJS
 
