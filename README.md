@@ -5,6 +5,7 @@ React
 * [Wiki With React and Firebase](https://github.com/it-spectre-ru/react-firebase)
 * [Work with API Github.com](https://github.com/it-spectre-ru/react-api-github)
 * [Training of memory, memorization of cards](https://github.com/it-spectre-ru/react-flash_card)
+* [Course catalog](https://github.com/it-spectre-ru/react-catalog)
 
 
 ## 2017
