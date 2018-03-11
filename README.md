@@ -16,4 +16,4 @@
 
 ## 2018
 
-* [Amazon clone](https://github.com/it-spectre-ru/e-commerce)![NodeJS](./node.fw.png "NodeJS Project")
+* [Amazon clone](https://github.com/it-spectre-ru/e-commerce)![NodeJS](./nodejs.png "NodeJS Project")
