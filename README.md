@@ -11,7 +11,7 @@
 ## 2017
 
 * [A weather, timer and todo application](https://github.com/it-spectre-ru/react-complete)
-* [JavaScript starter development kit](https://github.com/it-spectre-ru/js-starter-kit)
+* [JavaScript starter development kit](https://github.com/it-spectre-ru/js-starter-kit)![JS](./js.png "JS Starter Kit")
 
 
 ## 2018
