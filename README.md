@@ -10,7 +10,7 @@
 
 ## 2017
 
-* [A weather, timer and todo application](https://github.com/it-spectre-ru/react-complete)![ReactJS](./js.png "ReactJS")
+* [A weather, timer and todo application](https://github.com/it-spectre-ru/react-complete)![ReactJS](./reactjs.png "ReactJS")
 * [JavaScript starter development kit](https://github.com/it-spectre-ru/js-starter-kit)![JS](./js.png "JS Starter Kit")
 
 
