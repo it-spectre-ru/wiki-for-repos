@@ -18,8 +18,4 @@
 
 * [**Amazon clone**](https://github.com/it-spectre-ru/e-commerce)![NodeJS](./nodejs.png "NodeJS Project")
 
-	- _async_
-	- _bcrypt-nodejs_
-	- _express_
-	- _mongoose_
-	- _stripe_
+	- _async_, _bcrypt-nodejs_, _express_, _ejs_, _mongoose_, _stripe_
