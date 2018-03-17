@@ -11,11 +11,15 @@
 ## 2017
 
 * [A weather, timer and todo application](https://github.com/it-spectre-ru/react-complete)![ReactJS](./reactjs.png "ReactJS")
+
+- _reactjs_,  _redux_
+
 * [JavaScript starter development kit](https://github.com/it-spectre-ru/js-starter-kit)![JS](./js.png "JS Starter Kit")
+
+- _bundling_,  _minification_,  _sourcemaps_,  _traspiling_,  _mock api_, _linting_, _testing_, _ci_, _build_, _deploy_
 
 
 ## 2018
-
 * [**Amazon clone**](https://github.com/it-spectre-ru/e-commerce)![NodeJS](./nodejs.png "NodeJS Project")
 
 	- _async_,  _bcrypt-nodejs_,  _express_,  _ejs_,  _mongoose_, _stripe_
