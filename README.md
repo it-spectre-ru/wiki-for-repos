@@ -16,7 +16,7 @@
 
 ## 2018
 
-* [Amazon clone](https://github.com/it-spectre-ru/e-commerce)![NodeJS](./nodejs.png "NodeJS Project")
+* [*Amazon clone*](https://github.com/it-spectre-ru/e-commerce)![NodeJS](./nodejs.png "NodeJS Project")
 
 	- _async_
 	- _bcrypt-nodejs_
