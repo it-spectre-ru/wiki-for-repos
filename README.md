@@ -1,6 +1,6 @@
 ## 2016
 
-* [Wiki With React and Firebase](https://github.com/it-spectre-ru/react-firebase)
+* [Wiki With React and Firebase](https://github.com/it-spectre-ru/react-firebase)![ReactJS](./reactjs.png "ReactJS")
 
 * [Work with API Github.com](https://github.com/it-spectre-ru/react-api-github)![ReactJS](./reactjs.png "ReactJS")
 
