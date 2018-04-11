@@ -10,7 +10,7 @@
 
 * [Managing movies list.](https://github.com/it-spectre-ru/react-movies)![ReactJS](./reactjs.png "ReactJS")
 
-* [Shopping cart with stripe payment](https://github.com/it-spectre-ru/nodejs-shopping-cart)
+* [Shopping cart with stripe payment](https://github.com/it-spectre-ru/nodejs-shopping-cart)![NodeJS](./nodejs.png "NodeJS Project")
 
 
 ## 2017
