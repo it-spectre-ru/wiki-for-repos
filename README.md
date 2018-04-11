@@ -30,6 +30,6 @@
 
 	- _async_,  _bcrypt-nodejs_,  _express_,  _ejs_,  _mongoose_, _stripe_
 
-* [**Burger app**]()![ReactJS](./reactjs.png "ReactJS")
+* [**Burger app**](https://github.com/it-spectre-ru/react-complete-guide/tree/master/burger-app)![ReactJS](./reactjs.png "ReactJS")
 
 	- _react_,  _react-dom_,  _css-loader_
